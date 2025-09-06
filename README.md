@@ -1,1 +1,1 @@
-# Ride-Xpress
+# A fully responsive car rental website that allows users to explore available cars, view pricing, and make booking requests seamlessly across devices. The project focuses on modern UI design, mobile responsiveness, and a smooth user experience.
